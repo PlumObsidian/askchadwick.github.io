@@ -8,8 +8,7 @@ date: 2019-10-10 10:00:00
  social reformer who is noted for his leadership in reforming the Poor Laws in England
  and instituting major reforms in urban sanitation and public health.
 
-Chadwick pioneered the use of scientific surveys to identify all phases of a complex social problem, and pioneered the use of systematic long-term inspection programmes
- to make sure the reforms operated as planned.
+Chadwick pioneered the use of scientific surveys to identify all phases of a complex social problem, and pioneered the use of systematic long-term inspection programmes to make sure the reforms operated as planned.
 
 **Mr Bog** however, is a Local Government Officer of a certain vintage.
 Finding keeping up with a plethora of new legislation a challenging task and being a mentor
