@@ -5,7 +5,7 @@ abbrlink: febf399a774c41d98d2c6ace9fddedec
 tags:
   - fire_safety
 categories:
-  - Standard Clauses
+  - Standard Clauses For Housing Act Use - HHSRS
   - 24 - Fire Safety
 date: 1589189805000
 updated: 1589189805000
