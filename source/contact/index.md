@@ -7,13 +7,22 @@ date: 2019-10-10 10:00:00
 
 Contact MrBog
 
-<form accept-charset="UTF-8" action="https://getform.io/f/awnnljrb" method="POST">
-    <input type="email" name="email" placeholder="Your Email">
-    <input type="text" name="name" placeholder="Your Name">
-    <input type="text" name="message" placeholder="Your Message">
-    <button type="submit">Send</button>
+<!-- modify this form HTML and place wherever you want your form -->
+<form
+  action="https://formspree.io/f/mpwqrlqq"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
 </form>
-
 
 Mr Bog. 
 C/O Ask Chadwick
