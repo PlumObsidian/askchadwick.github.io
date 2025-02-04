@@ -1026,7 +1026,7 @@ links:
   items:
     - {
       title: "CIEH",
-      intro: "CIEH",
+      intro: "Chartered Institute of Environmental Health",
       link: "https://www.cieh.org/",
       avatar: "/img/favicon.png"
     }
@@ -1037,9 +1037,15 @@ links:
       avatar: "/img/favicon.png"
     }
     - {
-      title: "Fluid Repo",
-      intro: "Fluid",
-      link: "https://github.com/fluid-dev/hexo-theme-fluid",
+      title: "Shelter",
+      intro: "Shelter",
+      link: "https://england.shelter.org.uk/",
+      avatar: "/img/favicon.png"
+    }
+    - {
+      title: "Mary Ward Legal",
+      intro: "Mary Ward Legal",
+      link: "https://www.marywardlegal.org.uk/legal-advice/housing-advice/",
       avatar: "/img/favicon.png"
     }
 
