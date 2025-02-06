@@ -1048,6 +1048,12 @@ links:
       link: "https://www.marywardlegal.org.uk/legal-advice/housing-advice/",
       avatar: "/img/favicon.png"
     }
+    - {
+      title: "Nearly Legal",
+      intro: "Nearly Legal",
+      link: "https://nearlylegal.co.uk/",
+      avatar: "/img/favicon.png"
+    }
 
   # 当成员头像加载失败时，替换为指定图片
   # When the member avatar fails to load, replace the specified image

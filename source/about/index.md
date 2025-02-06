@@ -13,7 +13,7 @@ Chadwick pioneered the use of scientific surveys to identify all phases of a com
 **Mr Bog** however, is a Local Government Officer of a certain vintage.
 Finding keeping up with a plethora of new legislation a challenging task and being a mentor
 to newer practitioners, he put together **Ask Chadwick** as a repository of possibly
-useful links and guides to Environmental Health in the U.K.
+useful links and guides to Environmental Health Housing Law in the U.K.
 
 As this is largely experimental and presently a one man operation, he would request only that you
 THINK FOR YOURSELF and cross check things you read.
