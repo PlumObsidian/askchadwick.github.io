@@ -1054,6 +1054,25 @@ links:
       link: "https://nearlylegal.co.uk/",
       avatar: "/img/favicon.png"
     }
+    - {
+      title: "Citizens Advice",
+      intro: "Citizens Advice",
+      link: "https://www.citizensadvice.org.uk/housing/",
+      avatar: "/img/favicon.png"
+    }
+    - {
+      title: "Barrister Direct Access Portal",
+      intro: "Barrister Direct Access Portal",
+      link: "https://www.directaccessportal.co.uk/",
+      avatar: "/img/favicon.png"
+    }
+    - {
+      title: "First-tier Tribunal (Property Chamber)",
+      intro: "First-tier Tribunal (Property Chamber)",
+      link: "https://www.gov.uk/courts-tribunals/first-tier-tribunal-property-chamber",
+      avatar: "/img/favicon.png"
+    }
+
 
   # 当成员头像加载失败时，替换为指定图片
   # When the member avatar fails to load, replace the specified image
